@@ -1,4 +1,20 @@
 body{
     text-align: center;
     font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    color: #333333;
+    font-style: 16px;
+    margin: 0;
+    padding: 0;
+}
+
+#container{
+    width: 70%;
+    padding: 1em;
+    text-align-last: left;
+    border: 1px solid #dddddd;
+    margin: 0 auto;
+}
+
+#container h1{
+    font-style: 20px;
 }
