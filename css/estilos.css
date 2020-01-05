@@ -5,6 +5,7 @@ body{
     font-style: 16px;
     margin: 0;
     padding: 0;
+    background-color:#1e1f24;
 }
 
 #container{
@@ -27,9 +28,19 @@ body{
     padding: 0.5em;
 }
 
+#cabecera #logo{
+    width: 40px;
+    vertical-align: middle;
+}
+
 #cabecera #tagline{
     padding: 0 0 0 1em;
     font-weight: normal;
     font-style: 0.8em;
 
+}
+
+#post{
+    background-color:#fff;
+    padding: 1em;
 }
