@@ -21,7 +21,7 @@ body{
 }
 
 #cabecera {
-    background-color: #33a;
+    background-color: #37488b;
     color: white;
     font-weight: bold;
     margin: 0;
@@ -45,7 +45,7 @@ body{
     padding: 1em;
 }
 #footer{
-    background-color: #777;
+    background-color: #37488b;
     color: white;
     text-align: center;
     padding: 1em;
